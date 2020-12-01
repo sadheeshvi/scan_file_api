@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: pypandas-sql
+Version: 0.0.1
+Summary: Utility to read/write data from various data sources
+Home-page: https://github.com/saurabhdhupar/pypandas-sql
+Author: Saurabh Dhupar
+Author-email: saurabh.dhupar@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+Requires-Dist: sqlalchemy (~=1.3)
+Requires-Dist: psycopg2-binary (>=2.7.4)
+Requires-Dist: pandas (<1.0.0,>=0.17.1)
+Requires-Dist: Click (==7.0)
+Requires-Dist: keyring (==21.0.0)
+Requires-Dist: appdirs (==1.4.3)
+Requires-Dist: configparser (==4.0.2)
+
+# pypandas-sql
+
+[![CircleCI](https://circleci.com/gh/saurabhdhupar/pypandas-sql.svg?style=svg)](https://circleci.com/gh/saurabhdhupar/pypandas-sql)
+[![codecov](https://codecov.io/gh/saurabhdhupar/pypandas-sql/branch/master/graphs/badge.svg)](https://codecov.io/gh/saurabhdhupar/pypandas-sql)
+
+

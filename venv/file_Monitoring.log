@@ -1,0 +1,486 @@
+2020-11-27 15:13:44: INFO --  * Restarting with stat
+2020-11-27 15:13:45: WARNING --  * Debugger is active!
+2020-11-27 15:13:45: INFO --  * Debugger PIN: 957-326-310
+2020-11-27 15:13:45: INFO --  * Running on http://localhost:88/ (Press CTRL+C to quit)
+2020-11-27 15:15:01: INFO --  * Restarting with stat
+2020-11-27 15:15:02: WARNING --  * Debugger is active!
+2020-11-27 15:15:02: INFO --  * Debugger PIN: 957-326-310
+2020-11-27 15:15:02: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-27 15:15:17: INFO -- 127.0.0.1 - - [27/Nov/2020 15:15:17] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-27 15:16:49: INFO -- 127.0.0.1 - - [27/Nov/2020 15:16:49] "[35m[1mGET /get_magic HTTP/1.1[0m" 500 -
+2020-11-27 15:16:49: INFO -- 127.0.0.1 - - [27/Nov/2020 15:16:49] "[37mGET /get_magic?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-27 15:16:49: INFO -- 127.0.0.1 - - [27/Nov/2020 15:16:49] "[37mGET /get_magic?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-27 15:16:49: INFO -- 127.0.0.1 - - [27/Nov/2020 15:16:49] "[37mGET /get_magic?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-27 15:16:49: INFO -- 127.0.0.1 - - [27/Nov/2020 15:16:49] "[37mGET /get_magic?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-11-27 15:16:49: INFO -- 127.0.0.1 - - [27/Nov/2020 15:16:49] "[37mGET /get_magic?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-27 15:17:09: INFO -- 127.0.0.1 - - [27/Nov/2020 15:17:09] "[35m[1mGET /get_magic/%3Cc:%3E HTTP/1.1[0m" 500 -
+2020-11-27 15:17:09: INFO -- 127.0.0.1 - - [27/Nov/2020 15:17:09] "[37mGET /get_magic/%3Cc:%3E?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-27 15:17:09: INFO -- 127.0.0.1 - - [27/Nov/2020 15:17:09] "[37mGET /get_magic/%3Cc:%3E?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-27 15:17:09: INFO -- 127.0.0.1 - - [27/Nov/2020 15:17:09] "[37mGET /get_magic/%3Cc:%3E?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-27 15:17:09: INFO -- 127.0.0.1 - - [27/Nov/2020 15:17:09] "[37mGET /get_magic/%3Cc:%3E?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-11-27 15:17:09: INFO -- 127.0.0.1 - - [27/Nov/2020 15:17:09] "[37mGET /get_magic/%3Cc:%3E?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-27 15:17:09: INFO -- 127.0.0.1 - - [27/Nov/2020 15:17:09] "[37mGET /get_magic/%3Cc:%3E?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-27 15:22:28: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\api_poster.py', reloading
+2020-11-27 15:22:28: INFO --  * Restarting with stat
+2020-11-27 15:25:53: INFO --  * Restarting with stat
+2020-11-27 15:25:55: WARNING --  * Debugger is active!
+2020-11-27 15:25:55: INFO --  * Debugger PIN: 957-326-310
+2020-11-27 15:25:55: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-27 15:28:58: INFO --  * Restarting with stat
+2020-11-27 15:28:59: WARNING --  * Debugger is active!
+2020-11-27 15:28:59: INFO --  * Debugger PIN: 957-326-310
+2020-11-27 15:28:59: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-27 15:55:53: INFO -- 127.0.0.1 - - [27/Nov/2020 15:55:53] "[35m[1mGET /get_magic HTTP/1.1[0m" 500 -
+2020-11-27 15:55:53: INFO -- 127.0.0.1 - - [27/Nov/2020 15:55:53] "[37mGET /get_magic?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-27 15:55:53: INFO -- 127.0.0.1 - - [27/Nov/2020 15:55:53] "[37mGET /get_magic?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-27 15:55:53: INFO -- 127.0.0.1 - - [27/Nov/2020 15:55:53] "[37mGET /get_magic?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-27 15:55:53: INFO -- 127.0.0.1 - - [27/Nov/2020 15:55:53] "[37mGET /get_magic?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-11-27 15:55:53: INFO -- 127.0.0.1 - - [27/Nov/2020 15:55:53] "[37mGET /get_magic?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-27 15:56:42: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\api_poster.py', reloading
+2020-11-27 15:56:42: INFO --  * Restarting with stat
+2020-11-27 15:56:44: WARNING --  * Debugger is active!
+2020-11-27 15:56:44: INFO --  * Debugger PIN: 957-326-310
+2020-11-27 15:56:44: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-27 15:56:47: INFO --  * Restarting with stat
+2020-11-27 15:56:48: WARNING --  * Debugger is active!
+2020-11-27 15:56:48: INFO --  * Debugger PIN: 957-326-310
+2020-11-27 15:56:48: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-27 15:57:29: INFO -- 127.0.0.1 - - [27/Nov/2020 15:57:29] "[35m[1mGET /getmagic HTTP/1.1[0m" 500 -
+2020-11-27 15:57:29: INFO -- 127.0.0.1 - - [27/Nov/2020 15:57:29] "[37mGET /getmagic?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-27 15:57:29: INFO -- 127.0.0.1 - - [27/Nov/2020 15:57:29] "[37mGET /getmagic?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-27 15:57:29: INFO -- 127.0.0.1 - - [27/Nov/2020 15:57:29] "[37mGET /getmagic?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-27 15:57:29: INFO -- 127.0.0.1 - - [27/Nov/2020 15:57:29] "[37mGET /getmagic?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-27 15:57:29: INFO -- 127.0.0.1 - - [27/Nov/2020 15:57:29] "[37mGET /getmagic?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-11-27 15:57:29: INFO -- 127.0.0.1 - - [27/Nov/2020 15:57:29] "[37mGET /getmagic?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-27 15:58:14: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\api_poster.py', reloading
+2020-11-27 15:58:14: INFO --  * Restarting with stat
+2020-11-27 15:58:16: WARNING --  * Debugger is active!
+2020-11-27 15:58:16: INFO --  * Debugger PIN: 957-326-310
+2020-11-27 15:58:16: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-27 23:00:22: INFO --  * Restarting with stat
+2020-11-27 23:00:24: WARNING --  * Debugger is active!
+2020-11-27 23:00:24: INFO --  * Debugger PIN: 957-326-310
+2020-11-27 23:00:24: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-27 23:06:24: INFO --  * Restarting with stat
+2020-11-27 23:06:26: WARNING --  * Debugger is active!
+2020-11-27 23:06:26: INFO --  * Debugger PIN: 957-326-310
+2020-11-27 23:06:26: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-27 23:08:00: INFO -- 127.0.0.1 - - [27/Nov/2020 23:08:00] "[35m[1mGET /get_magic HTTP/1.1[0m" 500 -
+2020-11-27 23:08:00: INFO -- 127.0.0.1 - - [27/Nov/2020 23:08:00] "[37mGET /get_magic?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-27 23:08:00: INFO -- 127.0.0.1 - - [27/Nov/2020 23:08:00] "[37mGET /get_magic?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-27 23:08:00: INFO -- 127.0.0.1 - - [27/Nov/2020 23:08:00] "[37mGET /get_magic?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-27 23:08:00: INFO -- 127.0.0.1 - - [27/Nov/2020 23:08:00] "[37mGET /get_magic?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-11-27 23:08:00: INFO -- 127.0.0.1 - - [27/Nov/2020 23:08:00] "[37mGET /get_magic?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-27 23:13:07: INFO --  * Restarting with stat
+2020-11-27 23:13:10: WARNING --  * Debugger is active!
+2020-11-27 23:13:10: INFO --  * Debugger PIN: 957-326-310
+2020-11-27 23:13:10: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-27 23:13:10: INFO -- 127.0.0.1 - - [27/Nov/2020 23:13:10] "[37mGET /get_magic HTTP/1.1[0m" 200 -
+2020-11-27 23:17:09: INFO -- 127.0.0.1 - - [27/Nov/2020 23:17:09] "[37mGET /get_magic HTTP/1.1[0m" 200 -
+2020-11-27 23:17:31: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\api_poster.py', reloading
+2020-11-27 23:17:32: INFO --  * Restarting with stat
+2020-11-27 23:18:40: INFO --  * Restarting with stat
+2020-11-27 23:18:44: WARNING --  * Debugger is active!
+2020-11-27 23:18:44: INFO --  * Debugger PIN: 957-326-310
+2020-11-27 23:18:44: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-27 23:18:49: INFO -- 127.0.0.1 - - [27/Nov/2020 23:18:49] "[33mGET /getmagic HTTP/1.1[0m" 404 -
+2020-11-27 23:18:49: INFO -- 127.0.0.1 - - [27/Nov/2020 23:18:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-11-27 23:18:51: INFO -- 127.0.0.1 - - [27/Nov/2020 23:18:51] "[33mGET /getmagic HTTP/1.1[0m" 404 -
+2020-11-27 23:18:56: INFO -- 127.0.0.1 - - [27/Nov/2020 23:18:56] "[37mGET /get_magic HTTP/1.1[0m" 200 -
+2020-11-27 23:20:42: INFO --  * Restarting with stat
+2020-11-27 23:20:45: WARNING --  * Debugger is active!
+2020-11-27 23:20:45: INFO --  * Debugger PIN: 957-326-310
+2020-11-27 23:20:45: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-27 23:20:51: INFO -- 127.0.0.1 - - [27/Nov/2020 23:20:51] "[37mGET /get_magic HTTP/1.1[0m" 200 -
+2020-11-27 23:20:52: INFO -- 127.0.0.1 - - [27/Nov/2020 23:20:52] "[37mGET /get_magic HTTP/1.1[0m" 200 -
+2020-11-27 23:21:53: INFO -- 127.0.0.1 - - [27/Nov/2020 23:21:53] "[37mGET /get_magic HTTP/1.1[0m" 200 -
+2020-11-27 23:25:09: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\api_poster.py', reloading
+2020-11-27 23:25:10: INFO --  * Restarting with stat
+2020-11-27 23:25:14: WARNING --  * Debugger is active!
+2020-11-27 23:25:14: INFO --  * Debugger PIN: 957-326-310
+2020-11-27 23:25:14: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-27 23:28:02: INFO --  * Restarting with stat
+2020-11-27 23:28:05: WARNING --  * Debugger is active!
+2020-11-27 23:28:05: INFO --  * Debugger PIN: 957-326-310
+2020-11-27 23:28:05: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-27 23:28:06: INFO -- 127.0.0.1 - - [27/Nov/2020 23:28:06] "[33mGET /get_magic HTTP/1.1[0m" 404 -
+2020-11-27 23:28:20: INFO -- 127.0.0.1 - - [27/Nov/2020 23:28:20] "[37mGET /vbi/getmagic HTTP/1.1[0m" 200 -
+2020-11-27 23:38:37: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\api_poster.py', reloading
+2020-11-27 23:38:37: INFO --  * Restarting with stat
+2020-11-27 23:38:41: WARNING --  * Debugger is active!
+2020-11-27 23:38:41: INFO --  * Debugger PIN: 957-326-310
+2020-11-27 23:38:41: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-27 23:41:19: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\api_poster.py', reloading
+2020-11-27 23:41:20: INFO --  * Restarting with stat
+2020-11-27 23:57:16: INFO -- DB connection in init
+2020-11-27 23:57:54: INFO -- DB connection in init
+2020-11-27 23:58:03: INFO -- DB connection in init
+2020-11-27 23:59:37: INFO -- DB connection in init
+2020-11-27 23:59:56: INFO -- DB connection in init
+2020-11-28 00:02:10: INFO -- DB connection in init
+2020-11-28 00:02:37: INFO -- DB connection in init
+2020-11-28 00:03:02: INFO -- DB connection in init
+2020-11-28 00:03:56: INFO -- DB connection in init
+2020-11-28 00:04:17: INFO -- DB connection in init
+2020-11-28 00:05:36: INFO -- DB connection in init
+2020-11-28 00:07:50: INFO -- DB connection in init
+2020-11-28 00:08:08: INFO -- DB connection in init
+2020-11-28 00:14:26: INFO -- DB connection in init
+2020-11-28 00:15:02: INFO -- DB connection in init
+2020-11-28 00:15:25: INFO -- DB connection in init
+2020-11-28 00:15:43: INFO -- DB connection in init
+2020-11-28 00:15:57: INFO -- DB connection in init
+2020-11-28 00:16:51: INFO -- DB connection in init
+2020-11-28 00:17:04: INFO -- DB connection in init
+2020-11-28 00:17:22: INFO -- DB connection in init
+2020-11-28 00:20:01: INFO -- DB connection in init
+2020-11-28 00:20:57: INFO -- DB connection in init
+2020-11-28 00:33:47: INFO -- DB connection in init
+2020-11-28 00:34:31: INFO -- DB connection in init
+2020-11-28 00:35:04: INFO -- DB connection in init
+2020-11-28 00:35:46: INFO -- DB connection in init
+2020-11-28 00:36:21: INFO -- DB connection in init
+2020-11-28 00:36:56: INFO -- DB connection in init
+2020-11-28 00:37:37: INFO -- DB connection in init
+2020-11-28 00:38:18: INFO -- DB connection in init
+2020-11-28 00:39:03: INFO -- DB connection in init
+2020-11-28 00:39:56: INFO -- DB connection in init
+2020-11-28 00:41:22: INFO -- DB connection in init
+2020-11-28 00:41:35: INFO -- DB connection in init
+2020-11-28 00:42:23: INFO -- DB connection in init
+2020-11-28 00:43:01: INFO -- DB connection in init
+2020-11-28 00:48:26: INFO -- DB connection in init
+2020-11-28 00:48:49: INFO -- DB connection in init
+2020-11-28 00:55:40: INFO -- DB connection in init
+2020-11-28 00:56:19: INFO -- DB connection in init
+2020-11-28 00:58:09: INFO -- DB connection in init
+2020-11-28 01:00:32: INFO -- DB connection in init
+2020-11-28 01:02:35: INFO -- DB connection in init
+2020-11-28 01:02:39: INFO -- DB connection in init
+2020-11-28 01:03:11: INFO -- DB connection in init
+2020-11-28 01:04:34: INFO -- DB connection in init
+2020-11-28 01:04:46: INFO -- DB connection in init
+2020-11-28 01:05:05: INFO -- DB connection in init
+2020-11-28 01:05:45: INFO -- DB connection in init
+2020-11-28 01:08:13: INFO -- DB connection in init
+2020-11-28 01:09:00: INFO -- DB connection in init
+2020-11-28 01:09:47: INFO -- DB connection in init
+2020-11-28 01:10:20: INFO -- DB connection in init
+2020-11-28 01:10:37: INFO -- DB connection in init
+2020-11-28 01:14:36: INFO -- DB connection in init
+2020-11-28 01:16:19: INFO -- DB connection in init
+2020-11-28 01:16:45: INFO -- DB connection in init
+2020-11-28 01:19:13: INFO -- DB connection in init
+2020-11-28 01:19:24: INFO -- DB connection in init
+2020-11-28 01:21:03: INFO -- DB connection in init
+2020-11-28 01:21:46: INFO -- DB connection in init
+2020-11-28 01:22:00: INFO -- DB connection in init
+2020-11-28 01:23:03: INFO -- DB connection in init
+2020-11-28 01:24:03: INFO -- DB connection in init
+2020-11-28 01:25:51: INFO -- DB connection in init
+2020-11-28 01:26:03: INFO -- DB connection in init
+2020-11-28 01:28:18: INFO -- DB connection in init
+2020-11-28 01:32:28: INFO -- DB connection in init
+2020-11-28 01:34:49: INFO -- DB connection in init
+2020-11-28 01:35:15: INFO -- DB connection in init
+2020-11-28 01:36:56: INFO -- DB connection in init
+2020-11-28 01:43:03: INFO -- DB connection in init
+2020-11-28 01:43:28: INFO -- DB connection in init
+2020-11-28 01:44:01: INFO -- DB connection in init
+2020-11-28 01:46:02: INFO -- DB connection in init
+2020-11-28 02:03:03: INFO -- DB connection in init
+2020-11-28 02:03:48: INFO -- DB connection in init
+2020-11-28 02:38:27: INFO -- DB connection in init
+2020-11-28 02:42:09: INFO -- DB connection in init
+2020-11-28 02:43:15: INFO --  * Restarting with stat
+2020-11-28 02:43:18: WARNING --  * Debugger is active!
+2020-11-28 02:43:18: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 02:43:18: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 02:43:21: INFO -- 127.0.0.1 - - [28/Nov/2020 02:43:21] "[33mGET /data_compare HTTP/1.1[0m" 404 -
+2020-11-28 02:43:31: INFO -- 127.0.0.1 - - [28/Nov/2020 02:43:31] "[33mGET /data_compare HTTP/1.1[0m" 404 -
+2020-11-28 02:43:57: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\api_poster.py', reloading
+2020-11-28 02:43:57: INFO --  * Restarting with stat
+2020-11-28 02:44:00: WARNING --  * Debugger is active!
+2020-11-28 02:44:00: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 02:44:00: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 02:44:05: INFO --  * Restarting with stat
+2020-11-28 02:44:07: WARNING --  * Debugger is active!
+2020-11-28 02:44:07: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 02:44:08: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 02:44:08: INFO -- 127.0.0.1 - - [28/Nov/2020 02:44:08] "[33mGET /data_compare HTTP/1.1[0m" 404 -
+2020-11-28 02:44:24: INFO -- 127.0.0.1 - - [28/Nov/2020 02:44:24] "[32mGET /vbi/data_compare HTTP/1.1[0m" 308 -
+2020-11-28 02:44:24: INFO -- 127.0.0.1 - - [28/Nov/2020 02:44:24] "[35m[1mGET /vbi/data_compare/ HTTP/1.1[0m" 500 -
+2020-11-28 02:44:25: INFO -- 127.0.0.1 - - [28/Nov/2020 02:44:25] "[37mGET /vbi/data_compare/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-28 02:44:25: INFO -- 127.0.0.1 - - [28/Nov/2020 02:44:25] "[37mGET /vbi/data_compare/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-28 02:44:25: INFO -- 127.0.0.1 - - [28/Nov/2020 02:44:25] "[37mGET /vbi/data_compare/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-28 02:44:25: INFO -- 127.0.0.1 - - [28/Nov/2020 02:44:25] "[37mGET /vbi/data_compare/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 02:44:25: INFO -- 127.0.0.1 - - [28/Nov/2020 02:44:25] "[37mGET /vbi/data_compare/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-11-28 02:44:25: INFO -- 127.0.0.1 - - [28/Nov/2020 02:44:25] "[37mGET /vbi/data_compare/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 02:45:38: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\api_poster.py', reloading
+2020-11-28 02:45:38: INFO --  * Restarting with stat
+2020-11-28 02:45:41: WARNING --  * Debugger is active!
+2020-11-28 02:45:41: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 02:45:41: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 02:45:43: INFO --  * Restarting with stat
+2020-11-28 02:45:46: WARNING --  * Debugger is active!
+2020-11-28 02:45:46: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 02:45:46: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 02:45:47: INFO -- 127.0.0.1 - - [28/Nov/2020 02:45:47] "[35m[1mGET /vbi/data_compare/ HTTP/1.1[0m" 500 -
+2020-11-28 02:45:48: INFO -- 127.0.0.1 - - [28/Nov/2020 02:45:48] "[37mGET /vbi/data_compare/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-28 02:45:48: INFO -- 127.0.0.1 - - [28/Nov/2020 02:45:48] "[37mGET /vbi/data_compare/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-28 02:45:48: INFO -- 127.0.0.1 - - [28/Nov/2020 02:45:48] "[37mGET /vbi/data_compare/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-28 02:45:48: INFO -- 127.0.0.1 - - [28/Nov/2020 02:45:48] "[37mGET /vbi/data_compare/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 02:45:52: INFO -- 127.0.0.1 - - [28/Nov/2020 02:45:52] "[35m[1mGET /vbi/data_compare/ HTTP/1.1[0m" 500 -
+2020-11-28 02:45:52: INFO -- 127.0.0.1 - - [28/Nov/2020 02:45:52] "[37mGET /vbi/data_compare/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-28 02:45:52: INFO -- 127.0.0.1 - - [28/Nov/2020 02:45:52] "[37mGET /vbi/data_compare/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-28 02:45:52: INFO -- 127.0.0.1 - - [28/Nov/2020 02:45:52] "[37mGET /vbi/data_compare/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-28 02:45:52: INFO -- 127.0.0.1 - - [28/Nov/2020 02:45:52] "[37mGET /vbi/data_compare/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 02:46:04: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\api_poster.py', reloading
+2020-11-28 02:46:05: INFO --  * Restarting with stat
+2020-11-28 02:46:08: WARNING --  * Debugger is active!
+2020-11-28 02:46:08: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 02:46:08: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 02:46:08: INFO -- 127.0.0.1 - - [28/Nov/2020 02:46:08] "[33mGET /vbi/data_compare/ HTTP/1.1[0m" 404 -
+2020-11-28 02:46:11: INFO -- 127.0.0.1 - - [28/Nov/2020 02:46:11] "[33mGET /vbi/data_compare/ HTTP/1.1[0m" 404 -
+2020-11-28 02:46:50: INFO --  * Restarting with stat
+2020-11-28 02:46:53: WARNING --  * Debugger is active!
+2020-11-28 02:46:53: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 02:46:53: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 02:47:00: INFO -- 127.0.0.1 - - [28/Nov/2020 02:47:00] "[33mGET /vbi/data_compare/ HTTP/1.1[0m" 404 -
+2020-11-28 02:47:04: INFO -- 127.0.0.1 - - [28/Nov/2020 02:47:04] "[33mGET /vbi/data_compare/ HTTP/1.1[0m" 404 -
+2020-11-28 02:47:12: INFO -- 127.0.0.1 - - [28/Nov/2020 02:47:12] "[33mGET /data_compare/ HTTP/1.1[0m" 404 -
+2020-11-28 02:47:59: INFO -- 127.0.0.1 - - [28/Nov/2020 02:47:59] "[33mGET /data_compare/ HTTP/1.1[0m" 404 -
+2020-11-28 02:48:37: INFO --  * Restarting with stat
+2020-11-28 02:48:39: WARNING --  * Debugger is active!
+2020-11-28 02:48:39: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 02:48:39: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 02:48:40: INFO -- 127.0.0.1 - - [28/Nov/2020 02:48:40] "[33mGET /data_compare/ HTTP/1.1[0m" 404 -
+2020-11-28 02:48:44: INFO -- 127.0.0.1 - - [28/Nov/2020 02:48:44] "[33mGET /data_compare HTTP/1.1[0m" 404 -
+2020-11-28 02:48:50: INFO -- 127.0.0.1 - - [28/Nov/2020 02:48:50] "[33mGET /vbi/data_compare/ HTTP/1.1[0m" 404 -
+2020-11-28 02:56:53: INFO --  * Restarting with stat
+2020-11-28 02:56:56: WARNING --  * Debugger is active!
+2020-11-28 02:56:56: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 02:56:56: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 02:56:59: INFO -- 127.0.0.1 - - [28/Nov/2020 02:56:59] "[35m[1mGET /vbi HTTP/1.1[0m" 500 -
+2020-11-28 02:56:59: INFO -- 127.0.0.1 - - [28/Nov/2020 02:56:59] "[37mGET /vbi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-28 02:56:59: INFO -- 127.0.0.1 - - [28/Nov/2020 02:56:59] "[37mGET /vbi?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-28 02:56:59: INFO -- 127.0.0.1 - - [28/Nov/2020 02:56:59] "[37mGET /vbi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-28 02:56:59: INFO -- 127.0.0.1 - - [28/Nov/2020 02:56:59] "[37mGET /vbi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 02:56:59: INFO -- 127.0.0.1 - - [28/Nov/2020 02:56:59] "[37mGET /vbi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-11-28 02:56:59: INFO -- 127.0.0.1 - - [28/Nov/2020 02:56:59] "[37mGET /vbi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 02:57:19: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\api_poster.py', reloading
+2020-11-28 02:57:19: INFO --  * Restarting with stat
+2020-11-28 02:57:22: WARNING --  * Debugger is active!
+2020-11-28 02:57:22: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 02:57:22: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 02:57:22: INFO -- 127.0.0.1 - - [28/Nov/2020 02:57:22] "[35m[1mGET /vbi HTTP/1.1[0m" 500 -
+2020-11-28 02:57:22: INFO -- 127.0.0.1 - - [28/Nov/2020 02:57:22] "[37mGET /vbi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-28 02:57:22: INFO -- 127.0.0.1 - - [28/Nov/2020 02:57:22] "[37mGET /vbi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-28 02:57:22: INFO -- 127.0.0.1 - - [28/Nov/2020 02:57:22] "[37mGET /vbi?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-28 02:57:22: INFO -- 127.0.0.1 - - [28/Nov/2020 02:57:22] "[37mGET /vbi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 02:57:22: INFO -- 127.0.0.1 - - [28/Nov/2020 02:57:22] "[37mGET /vbi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 02:57:30: INFO -- 127.0.0.1 - - [28/Nov/2020 02:57:30] "[35m[1mGET /vbi HTTP/1.1[0m" 500 -
+2020-11-28 02:57:30: INFO -- 127.0.0.1 - - [28/Nov/2020 02:57:30] "[37mGET /vbi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-28 02:57:30: INFO -- 127.0.0.1 - - [28/Nov/2020 02:57:30] "[37mGET /vbi?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-28 02:57:30: INFO -- 127.0.0.1 - - [28/Nov/2020 02:57:30] "[37mGET /vbi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-28 02:57:30: INFO -- 127.0.0.1 - - [28/Nov/2020 02:57:30] "[37mGET /vbi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 02:58:49: INFO -- DB connection in init
+2020-11-28 03:00:33: INFO -- 127.0.0.1 - - [28/Nov/2020 03:00:33] "[33mGET /vbi/getmagic HTTP/1.1[0m" 404 -
+2020-11-28 03:00:38: INFO -- 127.0.0.1 - - [28/Nov/2020 03:00:38] "[35m[1mGET /vbi HTTP/1.1[0m" 500 -
+2020-11-28 03:00:38: INFO -- 127.0.0.1 - - [28/Nov/2020 03:00:38] "[37mGET /vbi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-28 03:00:38: INFO -- 127.0.0.1 - - [28/Nov/2020 03:00:38] "[37mGET /vbi?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-28 03:00:38: INFO -- 127.0.0.1 - - [28/Nov/2020 03:00:38] "[37mGET /vbi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-28 03:00:38: INFO -- 127.0.0.1 - - [28/Nov/2020 03:00:38] "[37mGET /vbi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-11-28 03:00:38: INFO -- 127.0.0.1 - - [28/Nov/2020 03:00:38] "[37mGET /vbi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 03:01:47: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\file_engine.py', reloading
+2020-11-28 03:01:47: INFO --  * Restarting with stat
+2020-11-28 03:01:49: INFO -- DB connection in init
+2020-11-28 03:01:49: WARNING --  * Debugger is active!
+2020-11-28 03:01:49: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 03:01:49: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 03:02:15: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\file_engine.py', reloading
+2020-11-28 03:02:15: INFO --  * Restarting with stat
+2020-11-28 03:02:26: INFO -- DB connection in init
+2020-11-28 03:02:49: INFO -- DB connection in init
+2020-11-28 21:53:12: INFO -- DB connection in init
+2020-11-28 21:55:10: INFO --  * Restarting with stat
+2020-11-28 21:55:11: WARNING --  * Debugger is active!
+2020-11-28 21:55:11: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 21:55:11: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 21:55:43: INFO -- 127.0.0.1 - - [28/Nov/2020 21:55:43] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-28 21:57:07: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\api_poster.py', reloading
+2020-11-28 21:57:07: INFO --  * Restarting with stat
+2020-11-28 21:57:08: WARNING --  * Debugger is active!
+2020-11-28 21:57:08: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 21:57:08: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 21:57:10: INFO -- 127.0.0.1 - - [28/Nov/2020 21:57:10] "[33mGET /hai HTTP/1.1[0m" 404 -
+2020-11-28 21:59:02: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\api_poster.py', reloading
+2020-11-28 21:59:02: INFO --  * Restarting with stat
+2020-11-28 21:59:03: WARNING --  * Debugger is active!
+2020-11-28 21:59:03: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 21:59:03: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 21:59:11: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\api_poster.py', reloading
+2020-11-28 21:59:11: INFO --  * Restarting with stat
+2020-11-28 21:59:12: WARNING --  * Debugger is active!
+2020-11-28 21:59:12: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 21:59:12: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 21:59:15: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\api_poster.py', reloading
+2020-11-28 21:59:15: INFO --  * Restarting with stat
+2020-11-28 21:59:16: WARNING --  * Debugger is active!
+2020-11-28 21:59:16: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 21:59:16: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 22:15:51: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\api_poster.py', reloading
+2020-11-28 22:15:51: INFO --  * Restarting with stat
+2020-11-28 22:15:52: WARNING --  * Debugger is active!
+2020-11-28 22:15:52: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 22:15:52: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 22:22:14: INFO -- 127.0.0.1 - - [28/Nov/2020 22:22:14] "[35m[1mGET /runtask/ HTTP/1.1[0m" 500 -
+2020-11-28 22:22:15: INFO -- 127.0.0.1 - - [28/Nov/2020 22:22:15] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-28 22:22:15: INFO -- 127.0.0.1 - - [28/Nov/2020 22:22:15] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-28 22:22:15: INFO -- 127.0.0.1 - - [28/Nov/2020 22:22:15] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-28 22:22:15: INFO -- 127.0.0.1 - - [28/Nov/2020 22:22:15] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 22:22:15: INFO -- 127.0.0.1 - - [28/Nov/2020 22:22:15] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-11-28 22:22:15: INFO -- 127.0.0.1 - - [28/Nov/2020 22:22:15] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 22:22:59: INFO -- 127.0.0.1 - - [28/Nov/2020 22:22:59] "[35m[1mGET /runtask/ HTTP/1.1[0m" 500 -
+2020-11-28 22:22:59: INFO -- 127.0.0.1 - - [28/Nov/2020 22:22:59] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-28 22:22:59: INFO -- 127.0.0.1 - - [28/Nov/2020 22:22:59] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-28 22:22:59: INFO -- 127.0.0.1 - - [28/Nov/2020 22:22:59] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-28 22:23:00: INFO -- 127.0.0.1 - - [28/Nov/2020 22:23:00] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 22:23:00: INFO -- 127.0.0.1 - - [28/Nov/2020 22:23:00] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 22:23:04: INFO -- 127.0.0.1 - - [28/Nov/2020 22:23:04] "[32mGET /runtask HTTP/1.1[0m" 308 -
+2020-11-28 22:23:04: INFO -- 127.0.0.1 - - [28/Nov/2020 22:23:04] "[35m[1mGET /runtask/ HTTP/1.1[0m" 500 -
+2020-11-28 22:23:04: INFO -- 127.0.0.1 - - [28/Nov/2020 22:23:04] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-28 22:23:04: INFO -- 127.0.0.1 - - [28/Nov/2020 22:23:04] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-28 22:23:04: INFO -- 127.0.0.1 - - [28/Nov/2020 22:23:04] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-28 22:23:04: INFO -- 127.0.0.1 - - [28/Nov/2020 22:23:04] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 22:26:40: INFO -- 127.0.0.1 - - [28/Nov/2020 22:26:40] "[35m[1mGET /runtask/ HTTP/1.1[0m" 500 -
+2020-11-28 22:26:40: INFO -- 127.0.0.1 - - [28/Nov/2020 22:26:40] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-28 22:26:40: INFO -- 127.0.0.1 - - [28/Nov/2020 22:26:40] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-28 22:26:40: INFO -- 127.0.0.1 - - [28/Nov/2020 22:26:40] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-28 22:26:40: INFO -- 127.0.0.1 - - [28/Nov/2020 22:26:40] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-11-28 22:26:40: INFO -- 127.0.0.1 - - [28/Nov/2020 22:26:40] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 22:26:40: INFO -- 127.0.0.1 - - [28/Nov/2020 22:26:40] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 22:28:49: INFO -- 127.0.0.1 - - [28/Nov/2020 22:28:49] "[35m[1mGET /runtask/ HTTP/1.1[0m" 500 -
+2020-11-28 22:28:49: INFO -- 127.0.0.1 - - [28/Nov/2020 22:28:49] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-28 22:28:49: INFO -- 127.0.0.1 - - [28/Nov/2020 22:28:49] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-28 22:28:49: INFO -- 127.0.0.1 - - [28/Nov/2020 22:28:49] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-28 22:28:49: INFO -- 127.0.0.1 - - [28/Nov/2020 22:28:49] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 22:30:47: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\api_poster.py', reloading
+2020-11-28 22:31:05: INFO -- 127.0.0.1 - - [28/Nov/2020 22:31:05] "[35m[1mGET /runtask/ HTTP/1.1[0m" 500 -
+2020-11-28 22:31:05: INFO -- 127.0.0.1 - - [28/Nov/2020 22:31:05] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-28 22:31:05: INFO -- 127.0.0.1 - - [28/Nov/2020 22:31:05] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-28 22:31:05: INFO -- 127.0.0.1 - - [28/Nov/2020 22:31:05] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-28 22:31:05: INFO -- 127.0.0.1 - - [28/Nov/2020 22:31:05] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 23:11:13: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\api_poster.py', reloading
+2020-11-28 23:13:18: INFO --  * Restarting with stat
+2020-11-28 23:13:19: WARNING --  * Debugger is active!
+2020-11-28 23:13:19: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 23:13:19: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 23:13:32: INFO -- DB connection in init
+2020-11-28 23:13:33: INFO -- 127.0.0.1 - - [28/Nov/2020 23:13:33] "[35m[1mGET /runtask/ HTTP/1.1[0m" 500 -
+2020-11-28 23:13:33: INFO -- 127.0.0.1 - - [28/Nov/2020 23:13:33] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-28 23:13:33: INFO -- 127.0.0.1 - - [28/Nov/2020 23:13:33] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-28 23:13:33: INFO -- 127.0.0.1 - - [28/Nov/2020 23:13:33] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-28 23:13:33: INFO -- 127.0.0.1 - - [28/Nov/2020 23:13:33] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 23:13:53: INFO --  * Restarting with stat
+2020-11-28 23:13:55: WARNING --  * Debugger is active!
+2020-11-28 23:13:55: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 23:13:55: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 23:13:56: INFO -- DB connection in init
+2020-11-28 23:13:56: INFO -- 127.0.0.1 - - [28/Nov/2020 23:13:56] "[35m[1mGET /runtask/ HTTP/1.1[0m" 500 -
+2020-11-28 23:13:56: INFO -- 127.0.0.1 - - [28/Nov/2020 23:13:56] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-28 23:13:56: INFO -- 127.0.0.1 - - [28/Nov/2020 23:13:56] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-28 23:13:56: INFO -- 127.0.0.1 - - [28/Nov/2020 23:13:56] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-28 23:13:56: INFO -- 127.0.0.1 - - [28/Nov/2020 23:13:56] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 23:14:15: INFO --  * Restarting with stat
+2020-11-28 23:14:17: WARNING --  * Debugger is active!
+2020-11-28 23:14:17: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 23:14:17: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 23:14:20: INFO -- DB connection in init
+2020-11-28 23:14:20: INFO -- 127.0.0.1 - - [28/Nov/2020 23:14:20] "[35m[1mGET /runtask/ HTTP/1.1[0m" 500 -
+2020-11-28 23:14:20: INFO -- 127.0.0.1 - - [28/Nov/2020 23:14:20] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-28 23:14:20: INFO -- 127.0.0.1 - - [28/Nov/2020 23:14:20] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-28 23:14:20: INFO -- 127.0.0.1 - - [28/Nov/2020 23:14:20] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-28 23:14:20: INFO -- 127.0.0.1 - - [28/Nov/2020 23:14:20] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 23:23:09: INFO -- DB connection in init
+2020-11-28 23:23:09: INFO -- 127.0.0.1 - - [28/Nov/2020 23:23:09] "[35m[1mGET /runtask/ HTTP/1.1[0m" 500 -
+2020-11-28 23:23:09: INFO -- 127.0.0.1 - - [28/Nov/2020 23:23:09] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-28 23:23:09: INFO -- 127.0.0.1 - - [28/Nov/2020 23:23:09] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-28 23:23:09: INFO -- 127.0.0.1 - - [28/Nov/2020 23:23:09] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-28 23:23:10: INFO -- 127.0.0.1 - - [28/Nov/2020 23:23:10] "[37mGET /runtask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-28 23:26:19: INFO --  * Restarting with stat
+2020-11-28 23:26:21: WARNING --  * Debugger is active!
+2020-11-28 23:26:21: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 23:26:21: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 23:26:27: INFO -- DB connection in init
+2020-11-28 23:26:27: INFO -- 127.0.0.1 - - [28/Nov/2020 23:26:27] "[35m[1mGET /runtask/ HTTP/1.1[0m" 0 -
+2020-11-28 23:30:39: INFO -- DB connection in init
+2020-11-28 23:30:39: INFO -- 127.0.0.1 - - [28/Nov/2020 23:30:39] "[35m[1mGET /runtask/ HTTP/1.1[0m" 0 -
+2020-11-28 23:31:09: INFO -- DB connection in init
+2020-11-28 23:31:31: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\file_engine.py', reloading
+2020-11-28 23:31:31: INFO --  * Restarting with stat
+2020-11-28 23:31:32: INFO -- DB connection in init
+2020-11-28 23:31:33: WARNING --  * Debugger is active!
+2020-11-28 23:31:33: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 23:31:33: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 23:32:28: INFO -- DB connection in init
+2020-11-28 23:35:13: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\file_engine.py', reloading
+2020-11-28 23:35:13: INFO --  * Restarting with stat
+2020-11-28 23:35:15: INFO -- DB connection in init
+2020-11-28 23:35:15: WARNING --  * Debugger is active!
+2020-11-28 23:35:15: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 23:35:15: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 23:39:44: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\file_engine.py', reloading
+2020-11-28 23:39:44: INFO --  * Restarting with stat
+2020-11-28 23:39:45: INFO -- DB connection in init
+2020-11-28 23:39:46: WARNING --  * Debugger is active!
+2020-11-28 23:39:46: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 23:39:46: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 23:40:01: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\file_engine.py', reloading
+2020-11-28 23:40:01: INFO --  * Restarting with stat
+2020-11-28 23:40:02: INFO -- DB connection in init
+2020-11-28 23:40:03: WARNING --  * Debugger is active!
+2020-11-28 23:40:03: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 23:40:03: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 23:41:13: INFO -- DB connection in init
+2020-11-28 23:41:39: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\file_engine.py', reloading
+2020-11-28 23:41:40: INFO --  * Restarting with stat
+2020-11-28 23:41:40: INFO -- DB connection in init
+2020-11-28 23:41:41: WARNING --  * Debugger is active!
+2020-11-28 23:41:41: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 23:41:41: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 23:42:14: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\file_engine.py', reloading
+2020-11-28 23:42:14: INFO --  * Restarting with stat
+2020-11-28 23:42:17: WARNING --  * Debugger is active!
+2020-11-28 23:42:17: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 23:42:17: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 23:44:59: INFO --  * Detected change in 'C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\file_engine.py', reloading
+2020-11-28 23:44:59: INFO --  * Restarting with stat
+2020-11-28 23:45:01: INFO -- DB connection in init
+2020-11-28 23:45:01: WARNING --  * Debugger is active!
+2020-11-28 23:45:01: INFO --  * Debugger PIN: 957-326-310
+2020-11-28 23:45:01: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-11-28 23:45:25: INFO -- DB connection in init
+2020-11-28 23:47:31: INFO -- DB connection in init
+2020-11-28 23:50:51: INFO -- DB connection in init
+2020-11-28 23:53:23: INFO -- DB connection in init
+2020-11-28 23:54:43: INFO -- DB connection in init
+2020-11-28 23:56:12: INFO -- DB connection in init
+2020-11-30 17:11:14: INFO -- DB connection in init
+2020-12-01 21:23:28: INFO -- DB connection in init
+2020-12-01 21:27:34: INFO -- DB connection in init
+2020-12-01 21:29:08: INFO -- DB connection in init
+2020-12-01 21:30:44: INFO -- DB connection in init
+2020-12-01 21:44:00: INFO -- DB connection in init
+2020-12-01 21:44:35: INFO -- DB connection in init
+2020-12-01 21:46:49: INFO -- DB connection in init
+2020-12-01 21:47:03: INFO -- DB connection in init
+2020-12-01 21:47:25: INFO -- DB connection in init
+2020-12-01 21:47:34: INFO -- DB connection in init
+2020-12-01 21:48:14: INFO -- DB connection in init
+2020-12-01 22:08:18: INFO --  * Restarting with stat
+2020-12-01 22:08:21: WARNING --  * Debugger is active!
+2020-12-01 22:08:21: INFO --  * Debugger PIN: 957-326-310
+2020-12-01 22:08:21: INFO --  * Running on http://localhost:8888/ (Press CTRL+C to quit)
+2020-12-01 22:08:41: INFO -- DB connection in init
+2020-12-01 22:08:41: INFO -- 127.0.0.1 - - [01/Dec/2020 22:08:41] "[37mGET /runtask/ HTTP/1.1[0m" 200 -
