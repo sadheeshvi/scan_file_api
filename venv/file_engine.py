@@ -2,12 +2,12 @@ from flask import request, jsonify
 import pandas as pd
 from pandas import DataFrame
 from sqlalchemy import create_engine ,update
-import sqlalchemy
+import sqlalchemy , sys
 import db_config as cc
 import logging, traceback
 from os import listdir
 from os.path import isfile, join
-import configparser
+from configparser import SafeConfigParser
 import os
 import re
 
@@ -102,7 +102,7 @@ class folder_monitor():  ### Main Class
                 update_statement_for_newly_deleted = f"update file_processing set is_newly_added=1 where batch_number='{recentbatches['batch_number'][1]}' and file_name='{row[1]}';"
                 print(update_statement_for_newly_deleted)
                 self.con.execute(update_statement_for_newly_deleted)
-            return {'data':"hai"}
+            return {'newly_added': newly_added.to_json() , 'newly_deleted': newly_deleted.to_json() , 'recent_batch':latest_df.to_json() , 'older_batch':previous_df.to_json()}
             '''
             update_statement_for_newly_added = sqlalchemy.update(file_processing).where(batch_number==recentbatches['batch_number'][0]).values(is_newly_added=1)
             print(update_statement_for_newly_added)
@@ -119,27 +119,30 @@ class folder_monitor():  ### Main Class
 
 
         try:
-            Config = ConfigParser.ConfigParser()
-            Config.read("C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\vbi_file_api\\vbi_config.ini")
-            Config.sections()
-            Config.set(magic, magic_string, magic_string_to_update)
-            Config.write()
-            return {}
+            parser = SafeConfigParser()
+            parser.read("C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\vbi_config.ini")
+            print(parser.get('magic', 'magic_string'))
+            parser.set('magic', 'magic_string', magic_string_to_update)
+            with open("C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\vbi_config.ini", 'w') as configfile:
+                parser.write(configfile)
+            return {'data':f'{magic_string_to_update} updated'}
 
 
-        except:
-            print("exception in setting magic string (set_magic) ")
+        except Exception as e :
+            print(f'exception in setting magic string (set_magic) {e}')
 
 
-    def set_interval(self, type, type_val):
+    def set_batch_interval(self,  type_val):
         try:
-            Config = ConfigParser.ConfigParser()
-            Config.read("C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\vbi_file_api\\vbi_config.ini")
-            Config.sections()
-            Config.set(Interval, type, type_val)
-            Config.write()
-        except:
-            print("exception in setting interval (set_interval module)")
+            parser = SafeConfigParser()
+            parser.read("C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\vbi_config.ini")
+            print(parser.get('Interval', 'batch_process'))
+            parser.set('Interval', 'batch_process', type_val)
+            with open("C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\vbi_config.ini", 'w') as configfile:
+                parser.write(configfile)
+            return {'data': f'{type_val} updated'}
+        except Exception as e:
+            print(f"exception in setting interval (set_interval module) {e}")
 
 
 if __name__ == '__main__':

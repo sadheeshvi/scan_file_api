@@ -6,8 +6,8 @@ from datetime import datetime
 from sqlalchemy import create_engine
 import requests
 BASE_URL = "http:/localhost:8888/"
-response = requests.get(BASE_URL+"get_magic")
-print(response.json())
+#response = requests.get(BASE_URL+"get_magic")
+#print(response.json())
 import re
 path = pathlib.Path().absolute()
 file_inside_folder = [ a for a in listdir(path) if isfile(join(path,a))]
@@ -50,3 +50,9 @@ aa= re.findall(r"(?=("+'|'.join(magic_string_list)+r"))",readed)
 st = "['hai','hello', 'how', 'are', 'you'] 15"
 ns = st.split("]",-1)
 print(ns[0])'''
+
+from configparser import SafeConfigParser
+
+parser = SafeConfigParser()
+parser.read("C:\\Users\\sadheesh.v\\PycharmProjects\\vbi_file_api\\venv\\vbi_config.ini")
+print(parser.get('magic', 'magic_string'))

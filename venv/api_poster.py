@@ -28,16 +28,27 @@ class vbi_api(Resource):
     def post(self,):
         return  {"given task": task , "data" : "under post method of api"}
 
+class set_val(Resource):
+    def get(self,value_list):
+        ob = fe.folder_monitor()
+        ob.set_magic(value_list)
+        return {'data': f'values_updated {value_list}'}
+
+class datacompare(Resource):
+    def get(self,):
+        ob = fe.folder_monitor()
+        vals = ob.data_compare_c()
+        return  vals
+
 api.add_resource(vbi_api,"/runtask/")
+api.add_resource(set_val,"/set_magic/<string:value_list>")
+#api.add_resource(set_val,"/set_batch_interval/<int:type_val>")
+api.add_resource(datacompare,"/datacompare")
 
 @app.route('/')
 def hello():
     return "Hello World!"
-
-
-@app.route('/set_magic/value_list')
-def set_magic_list(value_list):
-    fe.set_magic(value_list)
+    pass
 
 
 @app.route('/see_magic/folderstatus')
